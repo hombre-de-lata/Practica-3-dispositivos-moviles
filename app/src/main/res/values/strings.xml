@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">login</string>
+    <string name="user">Usuario</string>
+    <string name="contracena">password</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="registar">Registrar</string>
+    <string name="recuperarcontracena">Olvido su contraceña?</string>
+</resources>
